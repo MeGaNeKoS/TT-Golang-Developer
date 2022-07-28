@@ -21,4 +21,4 @@
 5. Have you used AWS ? If yes, please explain your experience. ex: RDS, Route53, Memory Cache, CloudFront etc.
 	No.
 
-Multiplication: [link](https://goplay.tools/snippet/sZnP7BQOlrX)
+Multiplication: [link](https://go.dev/play/p/vJ4IyHPSrEU)
